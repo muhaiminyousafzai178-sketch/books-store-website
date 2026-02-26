@@ -9,7 +9,7 @@ const navbar = () => {
         </div>
         <div >
             <ul className='flex justify-between gap-5  ml-30  '>
-                <li> <a href="#home"> HOME </a></li>
+                <li> <a href="#Home"> HOME </a></li>
                 <li> <a href="#about"> ABOUT</a></li>
                 <li> <a href="# product"> PRODUCT</a></li>
             </ul>
