@@ -2,7 +2,9 @@ import React from "react";
 
 const Longin = () => {
   return (
+    
     <div className="w-screen h-screen bg-gray-400">
+      
       <div className="pt-15 pl-40 flex ">
         <div className=" w-120 h-120 ">
           <img

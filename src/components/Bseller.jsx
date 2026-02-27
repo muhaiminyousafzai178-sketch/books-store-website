@@ -2,7 +2,7 @@ import React from 'react'
 
 const Bseller = ({ Image, title, price, Rating, icon1, icon2, price2 }) => {
   return (
-    <div>
+    <div id='Product' >
            <div className="relative w-75  h-115 p-1 flex flex-col justify-between items-center">
         <img
           src={icon1}
